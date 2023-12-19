@@ -1,4 +1,4 @@
-import Profile from "./Profile/profile";
+import Profile from "./Profile/Profile";
 
 export const App = () => {
   return (
