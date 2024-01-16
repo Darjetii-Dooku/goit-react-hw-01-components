@@ -1,0 +1,21 @@
+.table{
+    color: darkcyan;
+    width: 700px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 3px solid red;
+    text-align: center;
+}
+.item {
+    border: 1px solid lightblue;
+}
+.blist {
+    background-color: lightgray;
+}
+.wlist {
+    background-color: white;
+}
+.head {
+    background-color: darkturquoise;
+    color: white;
+}

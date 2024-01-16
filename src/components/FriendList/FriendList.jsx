@@ -2,7 +2,6 @@ import React from "react";
 import css from "./FriendList.module.css"
 
 const FriendList = ({friends}) => {
-    console.log(friends);
   return (
     <div>
         <ul className={css.list}>
