@@ -1,0 +1,38 @@
+.item{
+    height: 70px;
+    gap: 20px;
+    display: flex;
+    width: 400px;
+    border: 2px ridge silver;
+}
+.online{
+    margin-left: 10px;
+    position: relative;
+    bottom: 25px;
+    vertical-align: middle;
+    width: 20px;
+    background: lightgreen;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+.ofline{
+    margin-left: 10px;
+    position: relative;
+    bottom: 25px;
+    vertical-align: middle;
+    width: 20px;
+    background: red;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+.friend_name{
+    position: relative;
+    top: 10%;
+
+}
+.avatar{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 60px;
+    height: 60px;
+}
